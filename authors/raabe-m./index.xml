@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raabe, M. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/raabe-m./</link>
+      <atom:link href="https://andymlau.github.io/authors/raabe-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Raabe, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Raabe, M.</title>
+      <link>https://andymlau.github.io/authors/raabe-m./</link>
+    </image>
+    
+    <item>
+      <title>Analysis of protein-DNA interactions in chromatin by UV induced cross-linking and mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/natcomms_dna-xl/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_dna-xl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

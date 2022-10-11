@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Andy M Lau</title>
+    <link>https://andymlau.github.io/project/</link>
+      <atom:link href="https://andymlau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://andymlau.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Deuteros</title>
+      <link>https://andymlau.github.io/project/deuteros/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/deuteros/</guid>
+      <description>&lt;p&gt;Hydrogen deuterium exchange-mass spectrometry (HDX-MS) has emerged as a powerful technique for interrogating the conformational dynamics of proteins and their complexes. Currently, the downstream statistical analysis and visualisation of HDX-MS data from software such as DynamX (Waters Corporation, Manchester, UK) remains a laborious procedure, mainly due to the lack of streamlined methods to process large datasets. To remedy this, we developed Deuteros, a standalone graphical user interface written in MATLAB, designed to be coupled with Waters DynamX HDX data analysis software and allows rapid analysis and visualisation of data from differential HDX-MS.&lt;/p&gt;
+&lt;p&gt;Additional information can be found at: &lt;a href=&#34;https://github.com/andymlau/Deuteros&#34;&gt;https://github.com/andymlau/Deuteros&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Protein Interfaces</title>
+      <link>https://andymlau.github.io/project/ppi_ml/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/ppi_ml/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protein modelling with mass spectrometry I</title>
+      <link>https://andymlau.github.io/project/mimb/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/mimb/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protein modelling with mass spectrometry II</title>
+      <link>https://andymlau.github.io/project/sanibel_hera-nura/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/sanibel_hera-nura/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Charge Roulette for Gas MD</title>
+      <link>https://andymlau.github.io/project/gas-phase-md-simulations/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/gas-phase-md-simulations/</guid>
+      <description>&lt;p&gt;GitHub page can be found here: &lt;a href=&#34;https://github.com/andymlau/gasMD&#34;&gt;https://github.com/andymlau/gasMD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lau, A. M. C. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/lau-a.-m.-c./</link>
+      <atom:link href="https://andymlau.github.io/authors/lau-a.-m.-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Lau, A. M. C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Lau, A. M. C.</title>
+      <link>https://andymlau.github.io/authors/lau-a.-m.-c./</link>
+    </image>
+    
+    <item>
+      <title>Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/bioinformatics_deuteros2/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bioinformatics_deuteros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative mass spectrometry-based approaches for modelling macromolecular assemblies</title>
+      <link>https://andymlau.github.io/publication/mimb_modelling/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/mimb_modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystal structure of human zinc-α2-glycoprotein in complex with fatty acid reveals multiple different modes of lipid binding</title>
+      <link>https://andymlau.github.io/publication/bj_zag_xtal/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bj_zag_xtal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuteros: software for rapid analysis and visualization of data from differential hydrogen deuterium exchange-mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/bioinformatics_deuteros/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bioinformatics_deuteros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Lipids Enable the Formation of Functional Oligomers of the Eukaryotic Purine Symporter UapA</title>
+      <link>https://andymlau.github.io/publication/cellchemicalbio_uapa/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/cellchemicalbio_uapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Insight into the Assembly of the HerA-NurA Helicase-Nuclease DNA End Resection Complex using Native Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/nar_hera-nura/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/nar_hera-nura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zinc-induced oligomerization of zinc α2 glycoprotein reveals multiple fatty acid-binding sites</title>
+      <link>https://andymlau.github.io/publication/bj_zag-zinc/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bj_zag-zinc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

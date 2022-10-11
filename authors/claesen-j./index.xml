@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claesen, J. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/claesen-j./</link>
+      <atom:link href="https://andymlau.github.io/authors/claesen-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Claesen, J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Claesen, J.</title>
+      <link>https://andymlau.github.io/authors/claesen-j./</link>
+    </image>
+    
+    <item>
+      <title>Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/bioinformatics_deuteros2/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bioinformatics_deuteros2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

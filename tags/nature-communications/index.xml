@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature Communications | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/nature-communications/</link>
+      <atom:link href="https://andymlau.github.io/tags/nature-communications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nature Communications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Nature Communications</title>
+      <link>https://andymlau.github.io/tags/nature-communications/</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen-deuterium exchange mass spectrometry captures distinct dynamics upon substrate and inhibitor binding to a transporter</title>
+      <link>https://andymlau.github.io/publication/natcomms_jia_hdx/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_jia_hdx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perturbed structural dynamics underlie inhibition and altered efflux of the multidrug resistance pump AcrB</title>
+      <link>https://andymlau.github.io/publication/natcomms_acrb/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_acrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of protein-DNA interactions in chromatin by UV induced cross-linking and mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/natcomms_dna-xl/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_dna-xl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural basis of Cullin 2 RING E3 ligase regulation by the COP9 signalosome</title>
+      <link>https://andymlau.github.io/publication/natcomms_csn/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_csn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct protein-lipid interactions shape the conformational landscape of secondary transporters</title>
+      <link>https://andymlau.github.io/publication/natcomms_directlipids/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_directlipids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

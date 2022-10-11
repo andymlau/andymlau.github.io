@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politis, A. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/politis-a./</link>
+      <atom:link href="https://andymlau.github.io/authors/politis-a./index.xml" rel="self" type="application/rss+xml" />
+    <description>Politis, A.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Politis, A.</title>
+      <link>https://andymlau.github.io/authors/politis-a./</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen-deuterium exchange mass spectrometry captures distinct dynamics upon substrate and inhibitor binding to a transporter</title>
+      <link>https://andymlau.github.io/publication/natcomms_jia_hdx/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_jia_hdx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perturbed structural dynamics underlie inhibition and altered efflux of the multidrug resistance pump AcrB</title>
+      <link>https://andymlau.github.io/publication/natcomms_acrb/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_acrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of protein-DNA interactions in chromatin by UV induced cross-linking and mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/natcomms_dna-xl/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_dna-xl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/bioinformatics_deuteros2/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bioinformatics_deuteros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating hydrogen–deuterium exchange mass spectrometry with molecular dynamics simulations to probe lipid-modulated conformational changes in membrane proteins</title>
+      <link>https://andymlau.github.io/publication/natprot_chloe/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natprot_chloe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative mass spectrometry-based approaches for modelling macromolecular assemblies</title>
+      <link>https://andymlau.github.io/publication/mimb_modelling/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/mimb_modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural basis of Cullin 2 RING E3 ligase regulation by the COP9 signalosome</title>
+      <link>https://andymlau.github.io/publication/natcomms_csn/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_csn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuteros: software for rapid analysis and visualization of data from differential hydrogen deuterium exchange-mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/bioinformatics_deuteros/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bioinformatics_deuteros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mass‐Spectrometry‐Based Modelling Workflow for Accurate Prediction of IgG Antibody Conformations in the Gas Phase</title>
+      <link>https://andymlau.github.io/publication/angewandtechemie_igg/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/angewandtechemie_igg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Protein Architectures and Protein-Ligand Complexes by Integrative Structural Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/jove_nativems/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/jove_nativems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct protein-lipid interactions shape the conformational landscape of secondary transporters</title>
+      <link>https://andymlau.github.io/publication/natcomms_directlipids/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_directlipids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Lipids Enable the Formation of Functional Oligomers of the Eukaryotic Purine Symporter UapA</title>
+      <link>https://andymlau.github.io/publication/cellchemicalbio_uapa/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/cellchemicalbio_uapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface Accessibility and Dynamics of Macromolecular Assemblies Probed by Covalent Labeling Mass Spectrometry and Integrative Modeling</title>
+      <link>https://andymlau.github.io/publication/analchem_atpase/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/analchem_atpase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Insight into the Assembly of the HerA-NurA Helicase-Nuclease DNA End Resection Complex using Native Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/nar_hera-nura/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/nar_hera-nura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
