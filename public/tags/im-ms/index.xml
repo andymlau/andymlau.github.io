@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IM-MS | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/im-ms/</link>
+      <atom:link href="https://andymlau.github.io/tags/im-ms/index.xml" rel="self" type="application/rss+xml" />
+    <description>IM-MS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>IM-MS</title>
+      <link>https://andymlau.github.io/tags/im-ms/</link>
+    </image>
+    
+    <item>
+      <title>Integrative mass spectrometry-based approaches for modelling macromolecular assemblies</title>
+      <link>https://andymlau.github.io/publication/mimb_modelling/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/mimb_modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mass‐Spectrometry‐Based Modelling Workflow for Accurate Prediction of IgG Antibody Conformations in the Gas Phase</title>
+      <link>https://andymlau.github.io/publication/angewandtechemie_igg/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/angewandtechemie_igg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Protein Architectures and Protein-Ligand Complexes by Integrative Structural Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/jove_nativems/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/jove_nativems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Insight into the Assembly of the HerA-NurA Helicase-Nuclease DNA End Resection Complex using Native Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/nar_hera-nura/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/nar_hera-nura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

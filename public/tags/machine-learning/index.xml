@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/machine-learning/</link>
+      <atom:link href="https://andymlau.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Machine Learning</title>
+      <link>https://andymlau.github.io/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of Protein Interfaces</title>
+      <link>https://andymlau.github.io/project/ppi_ml/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/project/ppi_ml/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
