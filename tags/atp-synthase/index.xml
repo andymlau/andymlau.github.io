@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATP synthase | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/atp-synthase/</link>
+      <atom:link href="https://andymlau.github.io/tags/atp-synthase/index.xml" rel="self" type="application/rss+xml" />
+    <description>ATP synthase</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>ATP synthase</title>
+      <link>https://andymlau.github.io/tags/atp-synthase/</link>
+    </image>
+    
+    <item>
+      <title>Surface Accessibility and Dynamics of Macromolecular Assemblies Probed by Covalent Labeling Mass Spectrometry and Integrative Modeling</title>
+      <link>https://andymlau.github.io/publication/analchem_atpase/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/analchem_atpase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

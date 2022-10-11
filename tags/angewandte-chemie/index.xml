@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angewandte Chemie | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/angewandte-chemie/</link>
+      <atom:link href="https://andymlau.github.io/tags/angewandte-chemie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angewandte Chemie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Angewandte Chemie</title>
+      <link>https://andymlau.github.io/tags/angewandte-chemie/</link>
+    </image>
+    
+    <item>
+      <title>A Mass‐Spectrometry‐Based Modelling Workflow for Accurate Prediction of IgG Antibody Conformations in the Gas Phase</title>
+      <link>https://andymlau.github.io/publication/angewandtechemie_igg/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/angewandtechemie_igg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

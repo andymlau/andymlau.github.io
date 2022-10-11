@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zahid, H. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/zahid-h./</link>
+      <atom:link href="https://andymlau.github.io/authors/zahid-h./index.xml" rel="self" type="application/rss+xml" />
+    <description>Zahid, H.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Zahid, H.</title>
+      <link>https://andymlau.github.io/authors/zahid-h./</link>
+    </image>
+    
+    <item>
+      <title>Crystal structure of human zinc-α2-glycoprotein in complex with fatty acid reveals multiple different modes of lipid binding</title>
+      <link>https://andymlau.github.io/publication/bj_zag_xtal/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bj_zag_xtal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zinc-induced oligomerization of zinc α2 glycoprotein reveals multiple fatty acid-binding sites</title>
+      <link>https://andymlau.github.io/publication/bj_zag-zinc/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bj_zag-zinc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

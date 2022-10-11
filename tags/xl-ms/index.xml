@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XL-MS | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/xl-ms/</link>
+      <atom:link href="https://andymlau.github.io/tags/xl-ms/index.xml" rel="self" type="application/rss+xml" />
+    <description>XL-MS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>XL-MS</title>
+      <link>https://andymlau.github.io/tags/xl-ms/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of protein-DNA interactions in chromatin by UV induced cross-linking and mass spectrometry</title>
+      <link>https://andymlau.github.io/publication/natcomms_dna-xl/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_dna-xl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative mass spectrometry-based approaches for modelling macromolecular assemblies</title>
+      <link>https://andymlau.github.io/publication/mimb_modelling/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/mimb_modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural basis of Cullin 2 RING E3 ligase regulation by the COP9 signalosome</title>
+      <link>https://andymlau.github.io/publication/natcomms_csn/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_csn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Insight into the Assembly of the HerA-NurA Helicase-Nuclease DNA End Resection Complex using Native Mass Spectrometry</title>
+      <link>https://andymlau.github.io/publication/nar_hera-nura/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/nar_hera-nura/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

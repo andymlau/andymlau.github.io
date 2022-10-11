@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIMB | Andy M Lau</title>
+    <link>https://andymlau.github.io/tags/mimb/</link>
+      <atom:link href="https://andymlau.github.io/tags/mimb/index.xml" rel="self" type="application/rss+xml" />
+    <description>MIMB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>MIMB</title>
+      <link>https://andymlau.github.io/tags/mimb/</link>
+    </image>
+    
+    <item>
+      <title>Integrative mass spectrometry-based approaches for modelling macromolecular assemblies</title>
+      <link>https://andymlau.github.io/publication/mimb_modelling/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/mimb_modelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morris, E. P. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/morris-e.-p./</link>
+      <atom:link href="https://andymlau.github.io/authors/morris-e.-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Morris, E. P.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Morris, E. P.</title>
+      <link>https://andymlau.github.io/authors/morris-e.-p./</link>
+    </image>
+    
+    <item>
+      <title>Structural basis of Cullin 2 RING E3 ligase regulation by the COP9 signalosome</title>
+      <link>https://andymlau.github.io/publication/natcomms_csn/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/natcomms_csn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

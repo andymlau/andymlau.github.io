@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia, R. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/jia-r./</link>
+      <atom:link href="https://andymlau.github.io/authors/jia-r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia, R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Jia, R.</title>
+      <link>https://andymlau.github.io/authors/jia-r./</link>
+    </image>
+    
+    <item>
+      <title>Structural predictions of the functions of membrane proteins from HDX-MS</title>
+      <link>https://andymlau.github.io/publication/bst_lau/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/bst_lau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

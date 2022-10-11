@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byrne, B. | Andy M Lau</title>
+    <link>https://andymlau.github.io/authors/byrne-b./</link>
+      <atom:link href="https://andymlau.github.io/authors/byrne-b./index.xml" rel="self" type="application/rss+xml" />
+    <description>Byrne, B.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://andymlau.github.io/img/icon-192.png</url>
+      <title>Byrne, B.</title>
+      <link>https://andymlau.github.io/authors/byrne-b./</link>
+    </image>
+    
+    <item>
+      <title>Structural Lipids Enable the Formation of Functional Oligomers of the Eukaryotic Purine Symporter UapA</title>
+      <link>https://andymlau.github.io/publication/cellchemicalbio_uapa/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andymlau.github.io/publication/cellchemicalbio_uapa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
